@@ -11,3 +11,7 @@ function isThatLeapYear(year) {
 }
 
 isThatLeapYear(2020);
+
+
+// Output:
+// 2020 is a leap year

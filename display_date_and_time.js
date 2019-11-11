@@ -13,3 +13,7 @@
     console.log("The current time is " + hours + " : " + minutes + " : " + seconds + ".");
 })();
 
+
+// Output:
+// Today is Monday.
+// The current time is 9 PM : 24 : 22.
