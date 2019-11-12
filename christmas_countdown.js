@@ -1,3 +1,5 @@
+#!/usr/local/bin/node
+
 function christmasCountdown() {
     let christmas = {
         "day": 7,

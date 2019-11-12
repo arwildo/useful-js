@@ -1,3 +1,5 @@
+#!/usr/local/bin/node
+
 function isThatLeapYear(year) {
     if (year % 4 === 0) {
         if (year % 100 === 0 && year % 400 !== 0) {
