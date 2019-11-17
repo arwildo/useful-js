@@ -10,7 +10,7 @@ function idGenerator(n) {
     console.log(generatedId);
 }
 // n = length of the id
-idGenerator(353;
+idGenerator(35);
 
 
 // Output:
